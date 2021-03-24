@@ -10,11 +10,11 @@
 
 ### Server
 
-![](./screenshot-2.png)
+![](./screen-shot-2.png)
 
 ### Client
 
-![](./screenshot-3.png)
+![](./screen-shot-3.png)
 
 ## usage
 
